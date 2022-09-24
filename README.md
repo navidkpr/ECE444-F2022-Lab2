@@ -9,3 +9,6 @@ This repository is a clone of https://github.com/miguelgrinberg/flasky
 
 **Activity 3**
 ![Activity 3 Screenshot](./screenshot_4.png)
+
+**Activity 4**
+![Activity 4 Screenshot 1](./screenshot_5.png)
