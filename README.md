@@ -6,3 +6,6 @@ This repository is a clone of https://github.com/miguelgrinberg/flasky
 
 **Activity 2**
 ![Activity 2 Screenshot](./screenshot_3.png)
+
+**Activity 3**
+![Activity 3 Screenshot](./screenshot_4.png)
