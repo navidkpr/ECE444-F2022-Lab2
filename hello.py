@@ -23,8 +23,6 @@ class UofTEmail:
             return
         if "@" not in field.data:
             message = field.gettext("Please include '@' in the email address. '{}'. is missing '@'.".format(field.data))
-        elif "utoronto" not in field.data:
-            message = field.gettext('Please use your UofT email address')
         else:
             message = self.message
 
